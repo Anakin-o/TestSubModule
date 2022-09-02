@@ -1,0 +1,6 @@
+[submodule "TestSubModule/subModule"]
+	path = TestSubModule/subModule
+	url = git@github.com:Anakin-o/TestSubModule.git
+[submodule "subModule"]
+	path = subModule
+	url = git@github.com:Anakin-o/TestSubModule.git
